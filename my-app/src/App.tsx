@@ -1,5 +1,5 @@
 import type { Id } from "../convex/_generated/dataModel";
-import { AddBookmarkButton } from "./components/AddBookmark";
+import { AddBookmarkButton } from "./components/AddBookMark";
 import { BookmarkList } from "./components/BookmarkList";
 import { TrackHeader } from "./components/TrackHeader";
 
